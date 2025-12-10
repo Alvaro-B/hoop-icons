@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    xml:space="preserve"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="detroit.svg"
    inkscape:export-filename="../pngs/cleveland.png"
    inkscape:export-xdpi="96"
@@ -27,7 +27,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.99020576"
-     inkscape:cx="23.227496"
+     inkscape:cx="22.72255"
      inkscape:cy="77.761616"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -50,10 +50,10 @@
        id="text1"><tspan
          x="59.618671"
          y="77.566704"
-         id="tspan3"><tspan
+         id="tspan4"><tspan
            dx="0 6.4647012 5.369164 5.3226562 8.9244938 5.4518428"
            style="font-family:'Ranked Sports';-inkscape-font-specification:'Ranked Sports'"
-           id="tspan2">azzmen</tspan></tspan></text><g
+           id="tspan1">azzmen</tspan></tspan></text><g
        id="g106-5"
        transform="rotate(-11.257783,-204.91933,75.67099)" /><path
        style="fill:#c8102e;fill-opacity:1;stroke-width:0.944039"
@@ -77,7 +77,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ranked Sports';-inkscape-font-specification:'Ranked Sports';letter-spacing:0.637469px;stroke:none;stroke-width:7.76099"
          x="53.574696"
          y="84.411392"
-         id="tspan112">MOTORS</tspan></text><g
+         id="tspan112">DIESELS</tspan></text><g
        id="g112"
        transform="translate(0.06566766)"><rect
          style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.297096"
